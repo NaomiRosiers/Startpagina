@@ -59,6 +59,22 @@ h1 {
 	text-align: center;
 }
 
+p {
+	font-size: 4em;
+	font-family: "Calibri";
+	color: gray;
+}
+
+.venster1,.venster2,.venster3,.venster4,.venster5,.venster6,.venster7,.venster8,.venster9,.venster10,.venster11,.venster12 {
+	margin: 20em 5em 10em 20em;
+	padding: 0.5em;
+	border: 0.2em solid orange;
+	border-radius: 20% 0% 20% 0%;
+	position: fixed;
+	background: white;
+	opacity: 0.8;
+}
+
 .links {
 	border: 0.2em solid white;
 	border-radius: 20% 0% 20% 0%;
@@ -68,5 +84,10 @@ h1 {
 	border: 0.2em solid white;
 	border-radius: 0% 20% 0% 20%;
 }
+
+.onzichtbaar {
+	display: none;
+}
+
 
 /* Rosiers Naomi, 1GDMb */
