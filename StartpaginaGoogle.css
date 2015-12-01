@@ -1,6 +1,6 @@
 /* Layout */
 body {
-	background-image: url(Afbeeldingen/WhiteWall.jpg);
+	background-image: url(Kerstachtergrond.png);
 	width: 100em;
 }
 
@@ -8,7 +8,7 @@ body {
 	float: left;
 	margin: 10em 5em 10em 5em;
 	padding: 0.5em;
-	border: 0.2em solid orange;
+	border: 0.2em solid green;
 	border-radius: 20% 0% 20% 0%;
 	width: 30em;
 	height: 14em;
@@ -24,8 +24,8 @@ body {
 input {
 	width: 30em;
 	height: 2em;
-	border-bottom: 0.3em solid orange;
-	border-top: 0.3em solid orange;
+	border-bottom: 0.3em solid green;
+	border-top: 0.3em solid green;
 	border-left: 0.3em solid black;
 	border-right: 0.3em solid black;
 	background: white;
@@ -34,11 +34,10 @@ input {
 
 button {
 	background: white;
-	color: orange;
+	color: green;
 	margin-left: 1em;
 	width: 10em;
-	border-bottom: 0.3em solid orange;
-	border-top: 0.3em solid orange;
+	border-bottom: 0.3em solgreen;
 	border-left: 0.3em solid black;
 	border-right: 0.3em solid black;
 	box-shadow: 0.2em 0.2em 0.2em black;
@@ -47,7 +46,7 @@ button {
 img:hover {
 	opacity: 0.4;
 	background: white;
-	border: 0.2em solid orange;
+	border: 0.2em solid green;
 	box-shadow: 0.2em 0.2em 0.2em black;
 }
 
@@ -68,7 +67,7 @@ p {
 .venster1,.venster2,.venster3,.venster4,.venster5,.venster6,.venster7,.venster8,.venster9,.venster10,.venster11,.venster12 {
 	margin: 20em 5em 10em 20em;
 	padding: 0.5em;
-	border: 0.2em solid orange;
+	border: 0.2em solid green;
 	border-radius: 20% 0% 20% 0%;
 	position: fixed;
 	background: white;
