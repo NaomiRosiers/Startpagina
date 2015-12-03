@@ -1,6 +1,7 @@
 /* Layout */
 body {
 	background-image: url(Afbeeldingen/Kerstachtergrond.jpg);
+	background-size: 100em;
 	width: 100em;
 }
 
