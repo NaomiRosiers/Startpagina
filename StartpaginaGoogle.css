@@ -1,8 +1,9 @@
 /* Layout */
 body {
 	background-image: url(Afbeeldingen/KawaiiWallpaper.png);
-	background-size: 81%;
+	background-size: 81.5%;
 	width: 100em;
+	background-repeat: no-repeat;
 	background-color: #FBCED5;
 }
 
