@@ -1,7 +1,7 @@
 /* Layout */
 body {
 	background-image: url(Afbeeldingen/KawaiiWallpaper.png);
-	background-size: 80%;
+	background-size: 82%;
 	width: 100em;
 }
 
@@ -35,7 +35,7 @@ input {
 
 button {
 	background: white;
-	color: green;
+	color: #F099A1;
 	margin-left: 1em;
 	width: 10em;
 	border-bottom: 0.3em solid #F099A1;
